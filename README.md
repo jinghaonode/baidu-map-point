@@ -1,4 +1,4 @@
-﻿# vue_qqmap
+﻿# vue_baidu_map
 
 > 百度地图坐标拾取器vue组件，改善后台应用坐标输入体验，支持按城市名称搜索。
 搜索框样式依赖elementUI,不需要可删除顶部的elementUI组件标签，地图部分无依赖项，使用前请在html模板文件中自行引入百度地图sdk的js外链文件
